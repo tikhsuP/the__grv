@@ -1,2 +1,3 @@
-The photography website of 
+The photography website of.
+
 ##the__grv
